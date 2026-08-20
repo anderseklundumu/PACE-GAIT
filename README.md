@@ -11,7 +11,7 @@ The repository contains anonymized data used in the analyses presented in the ma
 ## Contents
 
 - data/: study data
-- metadata/: variable definitions
+
 
 ## Citation
 
