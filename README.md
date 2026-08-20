@@ -2,9 +2,11 @@
 
 Data accompanying the manuscript:
  
-"Title of your paper"
+"Gait Speed Measurement Using a LiDAR-Based Smartphone/Tablet Application: A Validation Study"
  
-Authors: Anders Eklund et al.
+Authors: Fredrik Öhberg, Måns Junestrand, Jenny Lander, Karolina Jonzen, William Hansson, 
+Jan Malm, and Anders Eklund
+
 
 The repository contains anonymized data used in the analyses presented in the manuscript.
 
@@ -15,6 +17,6 @@ The repository contains anonymized data used in the analyses presented in the ma
 
 ## Citation
 
-Please cite:
+Please cite: Gait Speed Measurement Using a LiDAR-Based Smartphone/Tablet Application: A Validation Study
     
-Eklund A, et al. Journal Name, Year.
+Öhberg F, et al. Fluid and Barriers of the CNS, 2026.
